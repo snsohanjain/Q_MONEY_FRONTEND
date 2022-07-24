@@ -11,9 +11,9 @@
 -   Refactored code to add support for multiple stock quote services.    
 -   Improved application stability and performance.    
 ---
-![QMoney Architecture](https://github.com/axitchandora/Personal-Stuff/blob/main/Images/ME_QMONEY_V2_MODULE_ME_QMONEY_V2_MODULE_JSON_PARSING_1633318898_image_1.png)
+![QMoney Architecture](https://github.com/snsohanjain/Personal-Stuff-/blob/75e893721483430d90763753040f8a7caac46601/Images/ME_QMONEY_V2_MODULE_ME_QMONEY_V2_MODULE_JSON_PARSING_1633318898_image_1.png)
 
 <p align="center"> <b>QMoney Architecture</b> </p>
 
-![QMoney Portfolio Manager Interface](https://github.com/axitchandora/Personal-Stuff/blob/main/Images/ME_ME_QMONEY_MODULE_PROJECT_REPORT_image_1.png)
+![QMoney Portfolio Manager Interface](https://github.com/snsohanjain/Personal-Stuff-/blob/75e893721483430d90763753040f8a7caac46601/Images/ME_ME_QMONEY_MODULE_PROJECT_REPORT_image_1.png)
 <p align="center"> <b>QMoney Portfolio Manager Interface</b> </p>
